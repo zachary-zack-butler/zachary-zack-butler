@@ -2,13 +2,13 @@
 
 **I build practical AI for the built environment.**
 
-Senior Business Developer & AI Advisor at [Range Roofing](https://rangeroof.com) · Founder & CEO of [Zebrix Group](https://zebrixgroup.com), a service-disabled veteran-owned (SDVOSB) HVAC and mechanical contractor in The Woodlands, Texas · U.S. Navy veteran · FAA Part 107 drone pilot
+Founder of [Pulsix AI](https://pulsixai.io) · Founder & CEO of [Zebrix Group Inc.](https://zebrixgroup.com), a service-disabled veteran-owned (SDVOSB) HVAC and mechanical contractor in The Woodlands, Texas · U.S. Navy veteran · FAA Part 107 drone pilot
 
 ### What I work on
 
-- **AI for commercial roofing:** inspection and reporting tools that cut report turnaround from days to under an hour, client portals, and CRM integrations that connect property data to field work.
+- **[Pulsix AI](https://pulsixai.io):** one system for your buildings, your work, your money and your risk. Condition and capital plans, work orders and contractors, budgets and NOI, leases and compliance, on top of the accounting system an owner already runs. Its research includes satellite-based work across the roofs of 403 Texas data centers.
 - **AI agents and MCP integrations:** read-only connectors that let Claude, ChatGPT and Codex answer questions from operational systems. See [rangeroof-portal-plugin](https://github.com/zachary-zack-butler/rangeroof-portal-plugin).
-- **Building intelligence ([Pulsix](https://zebrixgroup.com/pulsix)):** satellite remote sensing, energy and physical-system modeling for facilities and data centers, including research across the roofs of 403 Texas data centers.
+- **AI for contractors:** inspection and reporting tools that cut report turnaround from days to under an hour, client portals, and CRM integrations that connect property data to field work. I also advise Range Roofing on business development and AI as a contractor.
 
 ### Tools I use
 
@@ -16,4 +16,4 @@ Python · TypeScript · React · Next.js · Node · SQL / Postgres · Power BI �
 
 ### Elsewhere
 
-[zackbutler.com](https://zackbutler.com) · [LinkedIn](https://www.linkedin.com/in/zachary-zack-butler) · [Zebrix Insights](https://in.zebrixgroup.com/zebrix-insights)
+[zackbutler.com](https://zackbutler.com) · [LinkedIn](https://www.linkedin.com/in/zachary-zack-butler) · [Pulsix AI](https://pulsixai.io) · [Zebrix Insights](https://in.zebrixgroup.com/zebrix-insights)
